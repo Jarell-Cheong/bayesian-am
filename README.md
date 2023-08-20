@@ -56,8 +56,8 @@ We applied four different statistics, namely the mean squared error (MSE), the r
 - paper_figures.ipynb: Python notebook detailing code for all figures generated in the paper.
 - synthetic.ipynb: Python notebook detailing fitting of a synthetic function $-\sin^3(x)+\cos^3(x)$.
 - synthetic.py: contains helper functions to synthetic.ipynb.
-- mycycle.ipynb: Python notebook detailing the fitting of the mycycle dataset.
-- mycycle.py: contains helper functions for mycycle.ipynb.
+- mcycle.ipynb: Python notebook detailing the fitting of the mcycle dataset.
+- mcycle.py: contains helper functions for mcycle.ipynb.
 - beijing_EDA.ipynb: Python notebook detailing an exploratory data analysis process on the Beijing Multi-Site Air-Quality dataset.
 - beijing.ipynb: Python notebook detailing the fitting of the Beijing Multi-Site Air-Quality dataset.
 - utils.py: contains functions for the interpolation of 1d and 2d matrices, as well as code for smooth functions for the fitting of difference prior AM models.
@@ -67,7 +67,7 @@ We applied four different statistics, namely the mean squared error (MSE), the r
 - paper_figures: contains figures from paper_figures.ipynb.
 - EDA_figures: contains figures from beijing_EDA.ipynb.
 - synthetic_figures: contains figures from synthetic.ipynb.
-- mycycle_figures: contains figures from mycycle.ipynb.
+- mcycle_figures: contains figures from mcycle.ipynb.
 - model_figures: contains figures from beijing.ipynb.
 
 # Installation Guide
