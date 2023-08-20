@@ -1,7 +1,4 @@
-# Statistics 220: Final Project
-This code repository contains code which is written for the final project for Statistics 220: Bayesian Data Analysis, a class the author is enrolled in, under the instruction of Professor Jun Liu and Teaching Fellow Buyu Lin at Harvard University.
-
-# Table of Contents
+# Bayesian Additive Models: Theory and Practice
 1. [Introduction](#introduction)
 2. [Models Considered](#models-considered)
 3. [Dataset Considered](#dataset-considered)
@@ -59,4 +56,4 @@ We applied four different statistics, namely the mean squared error (MSE), the r
 - Assuming you have Python and Conda configured as well as a text editor, run code files.
 
 # Link to Paper 
-The paper can be accessed under the docs folder [here](docs/Stat220FinalProject.pdf).
+The paper can be accessed under the docs folder [here](docs/bayesian-am.pdf).
