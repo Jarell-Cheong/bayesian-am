@@ -43,16 +43,16 @@ We applied four different statistics, namely the mean squared error (MSE), the r
 - `utils.py`: contains functions for the interpolation of 1D and 2D matrices, as well as code for smooth functions for the fitting of difference prior AM models.
 
 **Folders**
-- data: contains the original multivariate data from the Beijing Multi-Site Air-Quality Dataset, specifically the one collected at Aoti Zhongxin, from 2013-2017. 
-- paper_figures: contains figures from paper_figures.ipynb.
-- EDA_figures: contains figures from beijing_EDA.ipynb.
-- synthetic_figures: contains figures from synthetic.ipynb.
-- mcycle_figures: contains figures from mcycle.ipynb.
-- model_figures: contains figures from beijing.ipynb.
+- `data`: contains the original multivariate data from the Beijing Multi-Site Air-Quality Dataset, specifically the one collected at Aoti Zhongxin, from 2013-2017. 
+- `paper_figures`: contains figures from `paper_figures.ipynb`.
+- `EDA_figures`: contains figures from `beijing_EDA.ipynb`.
+- `synthetic_figures`: contains figures from `synthetic.ipynb`.
+- `mcycle_figures`: contains figures from `mcycle.ipynb`.
+- `model_figures`: contains figures from `beijing.ipynb`.
 
 # Installation Guide
-- Clone the github file to your local desktop; In your terminal, run `git clone https://github.com/Jarell-Cheong/bayesian-am.git`.
-- Check and install requirements.txt: `pip install -r requirements.txt`.
+- Clone the GitHub file to your local desktop; in your terminal, run `git clone https://github.com/Jarell-Cheong/bayesian-am.git`.
+- Check and install `requirements.txt`: `pip install -r requirements.txt`.
 - Assuming you have Python and Conda configured as well as a text editor, run code files.
 
 # Link to Paper 
