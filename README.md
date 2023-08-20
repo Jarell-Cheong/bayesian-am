@@ -78,4 +78,4 @@ We applied four different statistics, namely the mean squared error (MSE), the r
 
 # Link to Paper 
 
-The paper can be accessed at under the docs folder [here](docs/Stat220FinalProject.pdf).
+The paper can be accessed under the docs folder [here](docs/Stat220FinalProject.pdf).
