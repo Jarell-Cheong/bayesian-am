@@ -72,8 +72,8 @@ We applied four different statistics, namely the mean squared error (MSE), the r
 
 # Installation Guide
 
-- Clone the github file to your local desktop; In your terminal, run `git clone https://github.com/Jarell-Cheong/bayesian-am.git`
-- Check and install requirements.txt: `pip install -r requirements.txt`
+- Clone the github file to your local desktop; In your terminal, run `git clone https://github.com/Jarell-Cheong/bayesian-am.git`.
+- Check and install requirements.txt: `pip install -r requirements.txt`.
 - Assuming you have Python and Conda configured as well as a text editor, run code files.
 
 # Link to Paper 
