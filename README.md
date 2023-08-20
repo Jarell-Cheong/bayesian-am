@@ -43,6 +43,7 @@ We applied four different statistics, namely the mean squared error (MSE), the r
 - beijing_EDA.ipynb: Python notebook detailing an exploratory data analysis process on the Beijing Multi-Site Air-Quality dataset.
 - beijing.ipynb: Python notebook detailing the fitting of the Beijing Multi-Site Air-Quality dataset.
 - utils.py: contains functions for the interpolation of 1d and 2d matrices, as well as code for smooth functions for the fitting of difference prior AM models.
+
 **Folders**
 - data: contains the original multivariate data from the Beijing Multi-Site Air-Quality Dataset, specifically the one collected at Aoti Zhongxin, from 2013-2017. 
 - paper_figures: contains figures from paper_figures.ipynb.
