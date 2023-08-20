@@ -36,14 +36,14 @@ We applied four different statistics, namely the mean squared error (MSE), the r
 
 # Code Repository Structure
 **Code Files**
-- paper_figures.ipynb: Python notebook detailing code for all figures generated in the paper.
-- synthetic.ipynb: Python notebook detailing fitting of a synthetic function $-\sin^3(x)+\cos^3(x)$.
-- synthetic.py: contains helper functions to synthetic.ipynb.
-- mcycle.ipynb: Python notebook detailing the fitting of the mcycle dataset.
-- mcycle.py: contains helper functions for mcycle.ipynb.
-- beijing_EDA.ipynb: Python notebook detailing an exploratory data analysis process on the Beijing Multi-Site Air-Quality dataset.
-- beijing.ipynb: Python notebook detailing the fitting of the Beijing Multi-Site Air-Quality dataset.
-- utils.py: contains functions for the interpolation of 1d and 2d matrices, as well as code for smooth functions for the fitting of difference prior AM models.
+- `paper_figures.ipynb`: Python notebook detailing code for all figures generated in the paper.
+- `synthetic.ipynb`: Python notebook detailing fitting of a synthetic function $-\sin^3(x)+\cos^3(x)$.
+- `synthetic.py`: contains helper functions for `synthetic.ipynb`.
+- `mcycle.ipynb`: Python notebook detailing the fitting of the mcycle dataset.
+- `mcycle.py`: contains helper functions for `mcycle.ipynb`.
+- `beijing_EDA.ipynb`: Python notebook detailing an exploratory data analysis process on the Beijing Multi-Site Air-Quality dataset.
+- `beijing.ipynb`: Python notebook detailing the fitting of the Beijing Multi-Site Air-Quality dataset.
+- `utils.py`: contains functions for the interpolation of 1D and 2D matrices, as well as code for smooth functions for the fitting of difference prior AM models.
 
 **Folders**
 - data: contains the original multivariate data from the Beijing Multi-Site Air-Quality Dataset, specifically the one collected at Aoti Zhongxin, from 2013-2017. 
