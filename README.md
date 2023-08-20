@@ -8,6 +8,7 @@ This code repository contains code which is written for the final project for St
 4. [Evaluation Metrics](#evaluation-metrics)
 5. [Code Repository Structure](#code-repository-structure)
 6. [Installation Guide](#installation-guide)
+7. [Paper](#link-to-paper)
 
 # Introduction
 Having studied the theory of additive modeling in depth in the paper, both from a frequentist and a Bayesian perspective, we want to apply special cases of the models we have introduced in various empirical investigations. The prime goal of this data analysis, beyond understanding and experiencing how such AMs are implemented in practice, is to find out how the different variations of the same additive modeling approach perform when benchmarked against the same type of data as well as to figure out which properties of the data yield these differences in model performance. This code repository contains all code used for empirical investigations.
