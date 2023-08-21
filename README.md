@@ -2,7 +2,7 @@
 - We survey and further clarify the theoretical underpinnings of the frequentist and Bayesian approaches to additive models.
 - We create plots and replicate figures from key books and papers to allow for further understanding of additive model theory.
 - We provide full derivations for numerous important theoretical results that are merely stated in key books and papers.
-- We implement all variations of the additive model discussed on three benchmark datasets (a synthetic dataset of fifty points around the true function $y=-\sin^3(x)+\cos^3(x)$, the \textsf{mcycle} dataset, and a big multidimensional dataset measuring air quality in Beijing).
+- We implement all variations of the additive model discussed on three benchmark datasets (a synthetic dataset of fifty points around the true function $y=-\sin^3(x)+\cos^3(x)$, the mcycle dataset, and a big multidimensional dataset measuring air quality in Beijing).
 - We compare and make inferences about the relative performance for the different additive models considered when compared to less interpretable models (such as random forests) as well as more interpretable models (such as linear and generalized linear models).
 
 # Models 
